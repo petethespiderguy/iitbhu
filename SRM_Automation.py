@@ -72,16 +72,6 @@ except Exception as e:
     logging.error(str(e))
 
 
-# In[6]:
-
-# Table to excel file mapping
-mapping = {
-  
-   "tb_bw_srm_projectreport_2020_q1"     : "SRM_ProjectReport_2020_Q1.xlsx",
- #  "tb_bw_srm_projectreport_2020_q2"     : "SRM_ProjectReport_2020_Q2.xlsx",
- #  "tb_bw_srm_projectreport_2020_q3"     : "SRM_ProjectReport_2020_Q3.xlsx",
-
-}
 
 
 # In[7]:
